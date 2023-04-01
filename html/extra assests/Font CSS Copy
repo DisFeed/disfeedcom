@@ -1,0 +1,126 @@
+   @font-face {
+     font-family: 'Acier Text Noir';
+     src: url('fonts/Acier\ Text\ Noir.ttf') format('truetype');
+     font-weight: 900;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Acier text solid';
+     src: url('fonts/Acier\ text\ solid.ttf') format('truetype');
+     font-weight: 400;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('fonts/Greycliff\ 700\ Bold.otf') format('opentype'), url('fonts/Greycliff\ 700\ Extra\ Bold.otf') format('opentype');
+     font-weight: 700;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8927cc9932a77b1ba1_Fontspring-DEMO-greycliffcf-boldoblique.otf') format('opentype'), url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89c2ab024e638d5e0c_Fontspring-DEMO-greycliffcf-extraboldoblique.otf') format('opentype');
+     font-weight: 700;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8999bfd359940860f8_Fontspring-DEMO-greycliffcf-demibold.otf') format('opentype');
+     font-weight: 600;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89081a5856579fef65_Fontspring-DEMO-greycliffcf-demiboldoblique.otf') format('opentype');
+     font-weight: 600;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8927cc992ac37b1ba2_Fontspring-DEMO-greycliffcf-extralight.otf') format('opentype');
+     font-weight: 200;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89a64a17bb9300e569_Fontspring-DEMO-greycliffcf-heavy.otf') format('opentype');
+     font-weight: 900;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89536a00cbbf10cafd_Fontspring-DEMO-greycliffcf-heavyoblique.otf') format('opentype');
+     font-weight: 900;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89378ef5ae7bbed50f_Fontspring-DEMO-greycliffcf-extralightoblique.otf') format('opentype');
+     font-weight: 200;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89644e8e853d59205f_Fontspring-DEMO-greycliffcf-light.otf') format('opentype');
+     font-weight: 300;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89e48fa165336fb8cc_Fontspring-DEMO-greycliffcf-lightoblique.otf') format('opentype');
+     font-weight: 300;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d89d00556b7436eda35_Fontspring-DEMO-greycliffcf-mediumoblique.otf') format('opentype');
+     font-weight: 500;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8a2f3b9a0050c24f79_Fontspring-DEMO-greycliffcf-medium.otf') format('opentype');
+     font-weight: 500;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8aedfc4c007ec679f1_Fontspring-DEMO-greycliffcf-thin.otf') format('opentype');
+     font-weight: 100;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8a8d2bbbd28da67055_Fontspring-DEMO-greycliffcf-thinoblique.otf') format('opentype');
+     font-weight: 100;
+     font-style: italic;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d897e97648eb116e109_Fontspring-DEMO-greycliffcf-regular.otf') format('opentype');
+     font-weight: 400;
+     font-style: normal;
+     font-display: swap;
+   }
+   @font-face {
+     font-family: 'Greycliff';
+     src: url('https://uploads-ssl.webflow.com/626793adcca757bf11ce84bf/62839d8a0e893cd2228efc09_Fontspring-DEMO-greycliffcf-regularoblique.otf') format('opentype');
+     font-weight: 400;
+     font-style: italic;
+     font-display: swap;
+   }
